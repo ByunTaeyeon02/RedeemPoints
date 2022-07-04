@@ -1,0 +1,54 @@
+name: redeempoints
+description: A new Flutter application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/among-us-sus.gif
+    - assets/images/giftbox.jpg
+    - assets/images/24cents.png
+    - assets/images/clown.png
+    - assets/images/ketchup.png
+    - assets/images/paperclip.png
+    - assets/images/robux.png
+    - assets/images/snacks.png
+    - assets/images/boi.png
+    - assets/images/cry.webp
+    - assets/images/ugh.png
+    - assets/images/chest.png
+    - assets/images/rainbowgift.gif
+    - assets/images/5jump.gif
+    - assets/images/10zoom.gif
+    - assets/images/flosh.webp
+    - assets/images/coinspin.gif
+    - assets/images/chestopen.webp
+    - assets/images/moneyy.webp
+    - assets/images/giftcardd.gif
+    - assets/images/popit.webp
+    - assets/images/moneybag.gif
+    - assets/images/spin.gif
+    - assets/images/hampterspin.gif
+    - assets/images/shook.webp
+    - assets/images/goldback.jpg
+    - assets/images/goldcoinz.jpg
+    - assets/images/5zoom.gif
+
+  fonts:
+    - family: FredokaOne
+      fonts:
+        - asset: assets/fonts/FredokaOne-Regular.ttf
